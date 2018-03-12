@@ -1,8 +1,6 @@
 
 ### ---------------  Awesome DashBoard --------------------
 
-### Requires Angular 4.x
-
 ### How to run this ?
 
 Step 1: npm install
